@@ -42,7 +42,7 @@ public class CuentaAssertionsTest {
 		
 		// assertNull
 		// checking if an object is null
-		assertNull(cuentaCuatro);
+		assertNull(cuentaTres);
 	}
 	
 	@Test
