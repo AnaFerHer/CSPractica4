@@ -5,10 +5,9 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>YOUR_COMPANY</groupId>
-    <artifactId>YOUR_APP</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
-
+  <groupId>com.calidadSoftware</groupId>
+  <artifactId>practica4</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
     <properties>
         <project.java.version>1.8</project.java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
